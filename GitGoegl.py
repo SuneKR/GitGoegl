@@ -1,0 +1,3 @@
+printableString = ""
+
+print(printableString)
